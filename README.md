@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-Este repositorio contiene el análisis realizado durante el Sprint 9, un experimento A/B sobre una página de inicio (landing page) para apoyar una decisión de negocio basada en datos.
+Este repositorio contiene el análisis realizado a un experimento A/B sobre la evaluación de una nueva página de inicio (landing page) de una empresa de ventas en línea para apoyar una decisión en cuanto a la adopción de una nueva versión basada en datos.
 
 ## 📑 Tabla de contenidos
 
