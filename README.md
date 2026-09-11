@@ -48,7 +48,7 @@ Se utilizó el dataset `landing_experiment.csv`, con información de usuarios ex
 
 ## ▶ Cómo reproducir el análisis
 
-1. Abre `notebooks/S9_Version_Student_Proyecto_Landing_Experiment.ipynb`
+1. Abre `Landing_Page_A_B_Experiment.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `data/raw/landing_experiment.csv`
 
